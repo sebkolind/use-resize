@@ -10,7 +10,7 @@
   "unpkg": "dist/index.umd.js",
   "types": "dist/index.d.ts",
   "scripts": {
-    "build": "microbundle --globals preact/hooks=hooks && tsc",
+    "build": "microbundle --globals preact/hooks=hooks",
     "dev": "microbundle watch"
   },
   "keywords": [
