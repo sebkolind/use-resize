@@ -1,7 +1,7 @@
 {
   "name": "@sebkolind/use-resize",
   "version": "1.0.3",
-  "description": "A Preact Resize hook for creating dynamic layouts",
+  "description": "Listen on any components width and height via a convenient hook. Built for Preact with Typescript.",
   "author": "Sebastian K. Sorensen <sks1993@gmail.com>",
   "source": "src/index.ts",
   "main": "dist/index.js",
