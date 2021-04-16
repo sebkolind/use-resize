@@ -1,6 +1,6 @@
 {
   "name": "@sebkolind/use-resize",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Listen on any components width and height via a convenient hook. Built for Preact with Typescript.",
   "author": "Sebastian K. Sorensen <sks1993@gmail.com>",
   "source": "src/index.ts",
@@ -20,10 +20,10 @@
     "hooks",
     "resize"
   ],
-  "size-limit": [ 
-      {
-          "path": "dist/index.js"
-      }
+  "size-limit": [
+    {
+      "path": "dist/index.js"
+    }
   ],
   "license": "MIT",
   "devDependencies": {
