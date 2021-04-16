@@ -1,6 +1,6 @@
 {
   "name": "@sebkolind/use-resize",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A Preact Resize hook for creating dynamic layouts",
   "author": "Sebastian K. Sorensen <sks1993@gmail.com>",
   "source": "src/index.ts",
