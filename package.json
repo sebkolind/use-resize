@@ -8,8 +8,9 @@
   "exports": "dist/index.modern.js",
   "module": "dist/index.module.js",
   "unpkg": "dist/index.umd.js",
+  "types": "dist/index.d.ts",
   "scripts": {
-    "build": "microbundle --globals preact/hooks=hooks",
+    "build": "microbundle --globals preact/hooks=hooks && tsc",
     "dev": "microbundle watch"
   },
   "keywords": [
